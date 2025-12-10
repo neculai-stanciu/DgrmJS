@@ -53,6 +53,8 @@ https://dgrm.net/ has pro features like "undo/redo".
 ## Announcements / Articles
 [x.com](https://x.com/boyko_tech) | [telegram](https://t.me/dgrm_net)
 
+- 2025-12-10 Flowchart editor DGRM.net has become even more productive. For diagrams with images, memory savings reach 10x.
+
 - Speed up  
   - Fixed errors when working with large (20,000 px x 20,000 px) diagrams.
   - Saving and opening diagrams with a large number of images has been significantly accelerated.
