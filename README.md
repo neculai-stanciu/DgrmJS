@@ -53,6 +53,8 @@ https://dgrm.net/ has pro features like "undo/redo".
 ## Announcements / Articles
 [x.com](https://x.com/boyko_tech) | [telegram](https://t.me/dgrm_net)
 
+- 2026-01-07 [Now the small figures are always on top](https://alexey-boyko.medium.com/dgrm-net-whiteboard-now-the-small-figures-are-always-on-top-6f50a031f0d6). The position of the figures is determined automatically. No extra buttons.
+
 - 2025-12-10 Flowchart editor DGRM.net has become even more productive. For diagrams with images, memory savings reach 10x.
 
 - Speed up  
